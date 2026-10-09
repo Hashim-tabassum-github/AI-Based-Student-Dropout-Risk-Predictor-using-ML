@@ -266,6 +266,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 **Made with ❤️ by QadeerDev — Machine Learning Capstone Project**
 
-[⭐ Star this repo](https://github.com/your-username/student-dropout-prediction) • [🐛 Report Bug](https://github.com/your-username/student-dropout-prediction/issues) • [💡 Request Feature](https://github.com/your-username/student-dropout-prediction/issues/new)
-
-</div>
