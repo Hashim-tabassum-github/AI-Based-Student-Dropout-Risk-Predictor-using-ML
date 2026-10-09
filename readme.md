@@ -264,5 +264,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 <div align="center">
 
-**Made with ❤️ by QadeerDev — Machine Learning Capstone Project**
+**Made with ❤️ by Muhammad Hashim Tabassum  — Machine Learning Capstone Project**
 
